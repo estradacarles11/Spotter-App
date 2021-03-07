@@ -1,0 +1,12 @@
+{
+  "name": "Spotter-App",
+  "displayName": "Spotter-App",
+  "expo": {
+    "name": "Spotter-App",
+    "slug": "Spotter-App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
